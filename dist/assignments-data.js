@@ -5,7 +5,7 @@ window.TOPICS=[
     "subject": "math",
     "code": "1",
     "title": "Задание №1 · Геометрия на плоскости",
-    "period": "2026-09",
+    "period": "2026-10",
     "source": "exam"
   },
   {
@@ -29,7 +29,7 @@ window.TOPICS=[
     "subject": "math",
     "code": "4",
     "title": "Задание №4 · Простая вероятность",
-    "period": "2026-10",
+    "period": "2026-11",
     "source": "exam"
   },
   {
@@ -69,7 +69,7 @@ window.TOPICS=[
     "subject": "math",
     "code": "9",
     "title": "Задание №9 · Производная и интеграл",
-    "period": "2026-12",
+    "period": "2027-01",
     "source": "exam"
   },
   {
@@ -77,7 +77,7 @@ window.TOPICS=[
     "subject": "math",
     "code": "10",
     "title": "Задание №10 · Задачи с формулами",
-    "period": "2026-11",
+    "period": "2026-12",
     "source": "exam"
   },
   {
@@ -125,7 +125,7 @@ window.TOPICS=[
     "subject": "math",
     "code": "16",
     "title": "Задание №16 · Неравенство",
-    "period": "2027-01",
+    "period": "2027-02",
     "source": "exam"
   },
   {
@@ -141,7 +141,7 @@ window.TOPICS=[
     "subject": "math",
     "code": "18",
     "title": "Задание №18 · Геометрия на плоскости — сложнее",
-    "period": "2027-02",
+    "period": "2027-03",
     "source": "exam"
   },
   {
@@ -173,7 +173,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "2",
     "title": "Задание №2 · Значение слова",
-    "period": "2027-01",
+    "period": "2027-02",
     "source": "exam"
   },
   {
@@ -205,7 +205,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "6",
     "title": "Задание №6 · Лишнее или неверное слово",
-    "period": "2026-09",
+    "period": "2026-10",
     "source": "exam"
   },
   {
@@ -213,7 +213,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "7",
     "title": "Задание №7 · Формы слов",
-    "period": "2026-09",
+    "period": "2026-10",
     "source": "exam"
   },
   {
@@ -221,7 +221,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "8",
     "title": "Задание №8 · Ошибки в предложениях",
-    "period": "2026-11",
+    "period": "2026-12",
     "source": "exam"
   },
   {
@@ -253,7 +253,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "12",
     "title": "Задание №12 · Окончания глаголов",
-    "period": "2026-10",
+    "period": "2026-11",
     "source": "exam"
   },
   {
@@ -309,7 +309,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "19",
     "title": "Задание №19 · Сложные предложения",
-    "period": "2026-12",
+    "period": "2027-01",
     "source": "exam"
   },
   {
@@ -349,7 +349,7 @@ window.TOPICS=[
     "subject": "ru",
     "code": "24",
     "title": "Задание №24 · Типы речи и информация",
-    "period": "2027-02",
+    "period": "2027-03",
     "source": "exam"
   },
   {
@@ -397,7 +397,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "3",
     "title": "Задание №3 · Энергия и импульс",
-    "period": "2026-09",
+    "period": "2026-10",
     "source": "exam"
   },
   {
@@ -405,7 +405,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "4",
     "title": "Задание №4 · Равновесие и колебания",
-    "period": "2026-09",
+    "period": "2026-10",
     "source": "exam"
   },
   {
@@ -429,7 +429,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "7",
     "title": "Задание №7 · Газы",
-    "period": "2026-10",
+    "period": "2026-11",
     "source": "exam"
   },
   {
@@ -437,7 +437,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "8",
     "title": "Задание №8 · Теплота и работа",
-    "period": "2026-10",
+    "period": "2026-11",
     "source": "exam"
   },
   {
@@ -461,7 +461,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "11",
     "title": "Задание №11 · Электричество и ток",
-    "period": "2026-11",
+    "period": "2026-12",
     "source": "exam"
   },
   {
@@ -469,7 +469,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "12",
     "title": "Задание №12 · Магнетизм и индукция",
-    "period": "2026-11",
+    "period": "2026-12",
     "source": "exam"
   },
   {
@@ -493,7 +493,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "15",
     "title": "Задание №15 · Электродинамика — соответствия",
-    "period": "2026-12",
+    "period": "2027-01",
     "source": "exam"
   },
   {
@@ -525,7 +525,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "19",
     "title": "Задание №19 · Измерительные приборы",
-    "period": "2027-01",
+    "period": "2027-02",
     "source": "exam"
   },
   {
@@ -557,7 +557,7 @@ window.TOPICS=[
     "subject": "physics",
     "code": "23",
     "title": "Задание №23 · Тепловые процессы — расчёт",
-    "period": "2027-02",
+    "period": "2027-03",
     "source": "exam"
   },
   {
