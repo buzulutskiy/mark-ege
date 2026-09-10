@@ -5,7 +5,7 @@
   "description": "Локальный трекер подготовки Марка к ЕГЭ",
   "scripts": {
     "start": "node server.cjs",
-    "check": "node --check dist/app.js && node --check dist/cloud.js && node --check dist/roadmap-data.js && node --check dist/roadmap.js && node --check dist/planner.js && node --check dist/topics-data.js && node --check dist/topics.js",
+    "check": "node --check dist/app.js && node --check dist/cloud.js && node --check dist/roadmap-data.js && node --check dist/roadmap.js && node --check dist/planner.js && node --check dist/topics-data.js && node --check dist/topics.js && node --check dist/assignments-data.js && node --check dist/subject-flow.js && node --check dist/exam-flow.js && node --check dist/navigation.js",
     "prepare:pages": "node prepare-pages.cjs"
   }
 }
