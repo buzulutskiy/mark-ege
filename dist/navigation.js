@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const b=e.target.closest('[data-view]');if(!b)return;document.querySelectorAll('[data-page]').forEach(p=>p.hidden=p.dataset.page!==b.dataset.view);document.querySelectorAll('.appnav [data-view]').forEach(t=>t.setAttribute('aria-pressed',String(t.dataset.view===b.dataset.view)));window.scrollTo({top:0,behavior:'smooth'})});
