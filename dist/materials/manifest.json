@@ -1,0 +1,124 @@
+{
+  "retrieved": "2026-09-10",
+  "status": "FIPI 2027 drafts; EDSOO 2025 programmes currently linked in official catalogue",
+  "files": [
+    {
+      "file": "changes-2027.pdf",
+      "bytes": 217700,
+      "sha256": "3e88c4f506dd5f21d530675d326282d6c15a24fbe97e709e0eb22880d2df633d",
+      "pages": 2,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/Plan_izmeneniya_KIM_EGE_2027.pdf"
+    },
+    {
+      "file": "fi_11_2027.zip",
+      "bytes": 2075773,
+      "sha256": "2a25f60d0c223151f2d136c536328187dd244932d19e75b22a3bd49744d669a5",
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/fi_11_2027.zip"
+    },
+    {
+      "file": "frp-math-10-11.pdf",
+      "bytes": 1100919,
+      "sha256": "1e77e50f65dedb457587cac15f9d46f734ce543ad95d53d93a245e472e44dd64",
+      "pages": 89,
+      "source": "https://edsoo.ru/wp-content/uploads/2025/07/2025_soo_frp_matematika_10_11_ugl.pdf"
+    },
+    {
+      "file": "frp-physics-10-11.pdf",
+      "bytes": 2074503,
+      "sha256": "a534947c42700de43bc345e22edbeb364d8a29ecff1e69d0373a23bfe8c8bbe2",
+      "pages": 96,
+      "source": "https://edsoo.ru/wp-content/uploads/2025/07/2025_soo_frp_fizika_10_11_ugl.pdf"
+    },
+    {
+      "file": "frp-russian-10-11.pdf",
+      "bytes": 1056277,
+      "sha256": "6be6b29f4512627c5a9510a0fb6ff6e6e5b7d81718564f19e361eaab4ef00bd6",
+      "pages": 92,
+      "source": "https://edsoo.ru/wp-content/uploads/2025/07/2025_soo_frp_russkij-yazyk_10_11.pdf"
+    },
+    {
+      "file": "ma_11_2027.zip",
+      "bytes": 2574123,
+      "sha256": "e78a7a134df1edad8aaeb760132dffaab4e6ae88af89302ff5d02149de78c5e6",
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ma_11_2027.zip"
+    },
+    {
+      "file": "math-codifier-2027.pdf",
+      "bytes": 429041,
+      "sha256": "1f6a8217fc7c0aae5e7958e2f0e3fa40e0556df431f11651680adcc2622e96b3",
+      "pages": 8,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ma_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "math-demo-2027.pdf",
+      "bytes": 745534,
+      "sha256": "2b12d43cd00b03dfc9755140d6c78276fab8a9c0a3dff2f7483d60dc68711c8c",
+      "pages": 18,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ma_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "math-specification-2027.pdf",
+      "bytes": 505283,
+      "sha256": "10239132c5edeba8e828d889227a0a2cd6dd3b4381b824bb5cd10f6f8a029576",
+      "pages": 14,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ma_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "physics-codifier-2027.pdf",
+      "bytes": 621267,
+      "sha256": "d8a4122aa22258675725fe445b2506ac809c941f8bc629e0dc1e0d412c83bc6d",
+      "pages": 11,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/fi_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "physics-demo-2027.pdf",
+      "bytes": 1222682,
+      "sha256": "ab2ca22c04518b62416959337834db22e31a25848a83d6e3f8ad394cc74398de",
+      "pages": 21,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/fi_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "physics-specification-2027.pdf",
+      "bytes": 373641,
+      "sha256": "b4c33d926e8192aaa9bca2777e357f45bf617b5b0215911c869cf6787a08a631",
+      "pages": 8,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/fi_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "ru-codifier-2027.pdf",
+      "bytes": 460363,
+      "sha256": "1888e4318d9d004b483ef9e6dcb7a0bb730577bf9aba6db48680e985995fda3f",
+      "pages": 10,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ru_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "ru-demo-2027.pdf",
+      "bytes": 664480,
+      "sha256": "a099403e7a0481cb6c87ec3f888ed5f5a9128e2b86c7beda900f7a30b059e673",
+      "pages": 15,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ru_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "ru-specification-2027.pdf",
+      "bytes": 407448,
+      "sha256": "a615ab1653a5265dd3d7a39c110c8c94f6c6e0f59b6f3cb060a69008d7a2751a",
+      "pages": 10,
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ru_11_2027.zip",
+      "note": "Original PDF extracted from ZIP, not modified"
+    },
+    {
+      "file": "ru_11_2027.zip",
+      "bytes": 1440302,
+      "sha256": "b109165272379b897447d980b4e729fa2aa0e1b2a77844693389ee226f19b6b9",
+      "source": "https://doc.fipi.ru/ege/demoversii-specifikacii-kodifikatory/2027/ru_11_2027.zip"
+    }
+  ]
+}

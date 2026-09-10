@@ -5,6 +5,6 @@
   "description": "Локальный трекер подготовки Марка к ЕГЭ",
   "scripts": {
     "start": "node server.cjs",
-    "check": "node --check dist/app.js && node --check dist/cloud.js"
+    "check": "node --check dist/app.js && node --check dist/cloud.js && node --check dist/roadmap-data.js && node --check dist/roadmap.js"
   }
 }
